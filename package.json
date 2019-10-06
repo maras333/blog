@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keystone.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Marek Czyż",
+  "license": "ISC",
+  "dependencies": {
+    "keystone": "^4.2.1"
+  }
+}
