@@ -9,6 +9,7 @@
   "author": "Marek Czyż",
   "license": "ISC",
   "dependencies": {
-    "keystone": "^4.2.1"
+    "keystone": "^4.2.1",
+    "pug": "^2.0.4"
   }
 }
